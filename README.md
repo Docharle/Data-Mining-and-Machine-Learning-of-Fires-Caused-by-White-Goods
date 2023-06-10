@@ -7,7 +7,7 @@ This repository contains the code and resources for a data mining and machine le
 
 ## Data
 
-The project utilizes a dataset comprising historical records of fires caused by white goods in London. The dataset contains various attributes such as the location, time, weather conditions, type of white goods involved, and other relevant factors. Due to privacy and legal considerations, the dataset used in this project is included in this repository.
+The project utilizes a dataset comprising historical records of fires caused by white goods in London. The dataset contains various attributes such as the location, time, type of white goods involved, and other relevant factors. Due to privacy and legal considerations, the dataset used in this project is included in this repository.
 
 ## License
 
